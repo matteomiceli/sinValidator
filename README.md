@@ -1,4 +1,4 @@
-# Wizebank Take Home Assessment
+# SIN Validator
 
 ## Assumptions and Explanation
 
